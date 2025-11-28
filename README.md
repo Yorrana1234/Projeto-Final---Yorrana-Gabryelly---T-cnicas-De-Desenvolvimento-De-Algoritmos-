@@ -97,6 +97,19 @@ PSEUDOGOÓDIGO
     SE opção = sair:
         encerrar programa
 
+FLUXOGRAMA
+
+Início
+ ↓
+Exibe menu
+ ↓
+Usuário escolhe opção
+ ├── Cadastrar → lê dados → adiciona aluno → volta
+ ├── Listar → mostra todos → volta
+ ├── Atualizar → lê índice → lê novos dados → altera → volta
+ ├── Deletar → lê índice → remove → volta
+ └── Sair → Fim
+
 LINGUAGEM ALGORÍTMICA 
 
   Algoritmo CriarAluno
@@ -124,15 +137,3 @@ Algoritmo DeletarAluno
 FimAlgoritmo
 
 
-FLUXOGRAMA
-
-Início
- ↓
-Exibe menu
- ↓
-Usuário escolhe opção
- ├── Cadastrar → lê dados → adiciona aluno → volta
- ├── Listar → mostra todos → volta
- ├── Atualizar → lê índice → lê novos dados → altera → volta
- ├── Deletar → lê índice → remove → volta
- └── Sair → Fim

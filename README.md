@@ -6,6 +6,7 @@
 
 Este projeto demonstra um CRUD simples (Create, Read, Update, Delete) para gerenciamento de alunos usando Python.
 
+```python
 alunos = []
 
 def criar_aluno(nome, idade, curso):
@@ -77,10 +78,6 @@ while True:
 
 PSEUDOGOÓDIGO
 
-  ENQUANTO verdadeiro:
-    mostrar menu
-    ler opção
-
     SE opção = criar:
         ler nome, idade, curso
         adicionar aluno na lista
@@ -102,11 +99,11 @@ PSEUDOGOÓDIGO
 
 LINGUAGEM ALGORÍTMICA 
 
-Algoritmo CriarAluno
+  Algoritmo CriarAluno
   Entrada: nome, idade, curso
   Processo: adicionar aluno à lista
   Saída: aluno criado
-FimAlgoritmo
+  FimAlgoritmo
 
 Algoritmo ListarAlunos
   Entrada: nenhuma

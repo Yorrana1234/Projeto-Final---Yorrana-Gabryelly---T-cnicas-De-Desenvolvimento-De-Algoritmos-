@@ -1,5 +1,12 @@
 # Projeto-Final---Yorrana-Gabryelly---Técnicas-De-Desenvolvimento-De-Algoritmos-
- O projeto de um sistema CRUD (Create, Read, Update e Delete) para gerenciamento de alunos utilizando Python. O sistema permite cadastrar novos alunos, listar todos os registros, atualizar informações existentes e remover alunos da lista.
+ Este projeto é um gerenciador simples de alunos, feito para organizar informações de estudantes de forma rápida e prática. Ele permite criar novos alunos, listar todos os alunos cadastrados e atualizar os dados de cada um, tudo de maneira direta e fácil de usar.
+A ideia é criar algo intuitivo, mas funcional, que ajude a treinar lógica de programação e manipulação de dados! 
+também para adicionar exclusão de alunos, busca por nome ou salvar dados em arquivos. (O projeto de um sistema CRUD (Create, Read, Update e Delete) para gerenciamento de alunos utilizando Python. O sistema permite cadastrar novos alunos, listar todos os registros, atualizar informações existentes e remover alunos da lista.) 
+
+Funcionalidades: 
+	•	Criar Aluno: Adiciona um novo aluno à lista, com nome, idade e curso.
+	•	Listar Alunos: Mostra todos os alunos cadastrados, com todos os dados.
+	•	Atualizar Aluno: Permite alterar os dados de um aluno específico.
   
   
   # Projeto CRUD de Alunos
